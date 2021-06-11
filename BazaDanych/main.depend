@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590786477 source:c:\users\dawid\desktop\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<limits.h>
+	<ctype.h>
+	"funkcje.h"
+
+1590787036 c:\users\dawid\desktop\main\funkcje.h
+	<stdio.h>
+
+1623408571 source:c:\users\dawid\desktop\main\funkcje.c
+	"funkcje.h"
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<limits.h>
+
